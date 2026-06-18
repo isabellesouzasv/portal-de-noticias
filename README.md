@@ -37,8 +37,8 @@ Landing page de um portal de notícias de tecnologia, com tema escuro e layout e
 Basta abrir o arquivo `index.html` no navegador. Não há dependências ou instalação necessárias.
 
 ```bash
-git clone <url-do-repositorio>
-cd nome-do-projeto
+git clone <https://github.com/isabellesouzaz/projeto-portal-de-noticias>
+cd projeto-portal-de-noticias
 ```
 
 ## Licença
